@@ -1,0 +1,33 @@
+{
+  "name": "markdown",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "prismjs": "^1.6.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "rehype-highlight": "^2.0.1",
+    "rehype-prism": "file:./packages/rehype-prism",
+    "rehype-react": "^3.0.0",
+    "remark-github": "^7.0.1",
+    "remark-html": "^6.0.1",
+    "remark-rehype": "^2.0.1",
+    "remark-toc": "^4.0.1",
+    "unified": "^6.1.5"
+  },
+  "devDependencies": {
+    "deepmerge": "^1.5.0",
+    "react-highlight": "^0.10.0",
+    "react-remark": "^1.0.4",
+    "react-scripts": "1.0.10",
+    "remark": "^8.0.0",
+    "remark-react": "^4.0.0",
+    "remark-react-lowlight": "^0.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

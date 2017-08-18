@@ -1,0 +1,9 @@
+{
+  "name": "rehype-prism",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "prismjs": "^1.6.0"
+  }
+}
