@@ -1,8 +1,8 @@
 # Usage
 
 ## environment
-- Node(v8.3.0)
-- npm(v5.3.0)
+- Node(v6.10.0)
+- npm(v3.10.10)
 
 ## Installation
 ```
